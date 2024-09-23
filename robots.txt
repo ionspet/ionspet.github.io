@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ionspet.github.io/sitemap.html.gz
+Sitemap: https://ionspet.github.io/app/sitemap.html.gz
+Sitemap: https://ionspet.github.io/assets/sitemap.html.gz
+Sitemap: https://ionspet.github.io/css/sitemap.html.gz
+Sitemap: https://ionspet.github.io/data/sitemap.html.gz
+Sitemap: https://ionspet.github.io/includes/sitemap.html.gz
+Sitemap: https://ionspet.github.io/item/sitemap.html.gz
+Sitemap: https://ionspet.github.io/src/sitemap.html.gz
